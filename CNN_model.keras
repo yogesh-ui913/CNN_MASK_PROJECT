@@ -1,2 +1,2 @@
-# Save Model
-model.save("CNN_model.keras")
+# Load Model
+model = tf.keras.models.load_model("CNN_model.keras")
