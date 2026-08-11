@@ -1,0 +1,2 @@
+# Save Model
+model.save("CNN_model.keras")
